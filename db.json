@@ -1,0 +1,88 @@
+{
+    "items": [
+        {
+            "name": "Agave",
+            "hash": "agave",
+            "icon": "http://api.big-goods.test/product-icons/bksZHEqwnYY6BElfYsJ0Q6JQsHPX86g4TqD2xTTL.png",
+            "weight": "0.50",
+            "price": "5.00",
+            "salePrice": null,
+            "amount": 1999,
+            "tags": []
+        },
+        {
+            "name": "Golderz",
+            "hash": "goldOre",
+            "icon": "http://api.big-goods.test/product-icons/pZLC0dVkDYVVAyfZOSwDHVh3AZgQLPq70AMO7pPK.png",
+            "weight": "1.00",
+            "price": "12.00",
+            "salePrice": null,
+            "amount": 25,
+            "tags": []
+        },
+        {
+            "name": "Kanne Milch",
+            "hash": "milk",
+            "icon": "http://api.big-goods.test/product-icons/tYzDZkhLWv3e6HGWRMygUdboXGWJne4HebbtiA1Q.png",
+            "weight": "1.50",
+            "price": "0.80",
+            "salePrice": null,
+            "amount": 14,
+            "tags": [
+                "Lebensmittel",
+                "Grundstoffe",
+                "Packerei"
+            ]
+        },
+        {
+            "name": "Rinderfleisch roh",
+            "hash": "rawMeat",
+            "icon": "http://api.big-goods.test/product-icons/wxvJBD5sjoQvxQAaNlvE3W0nmswn5pU5vFUPEmRy.png",
+            "weight": "2.00",
+            "price": "2.20",
+            "salePrice": null,
+            "amount": 145,
+            "tags": [
+                "Metzgerei",
+                "Lebensmittel",
+                "Grundstoffe"
+            ]
+        },
+        {
+            "name": "Salzkristall",
+            "hash": "saltCrystal",
+            "icon": "http://api.big-goods.test/product-icons/KOV9QgYFSf4C0Tgx9cBC5WN2OrQrxZoXgEwUjvHD.png",
+            "weight": "0.20",
+            "price": "1.20",
+            "salePrice": null,
+            "amount": 1228,
+            "tags": []
+        },
+        {
+            "name": "Schwefelstein",
+            "hash": "sulfurRock",
+            "icon": "http://api.big-goods.test/product-icons/itFKgUZf3Y1njG0a2Qwjwje68Fnf1TL3Z9LZSsDR.png",
+            "weight": "1.00",
+            "price": "1.40",
+            "salePrice": null,
+            "amount": 134,
+            "tags": []
+        },
+        {
+            "name": "Silbererz",
+            "hash": "silverOre",
+            "icon": "http://api.big-goods.test/product-icons/C7u6TOTllVVyCxlLzV6wSPoiNbQdDzHg5dXSRL2p.png",
+            "weight": "1.00",
+            "price": "1.50",
+            "salePrice": null,
+            "amount": 82,
+            "tags": []
+        }
+    ],
+    "tags": [
+        "Lebensmittel",
+        "Grundstoffe",
+        "Packerei",
+        "Metzgerei"
+    ]
+}
