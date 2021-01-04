@@ -25,7 +25,7 @@
             "hash": "milk",
             "icon": "http://api.big-goods.test/product-icons/tYzDZkhLWv3e6HGWRMygUdboXGWJne4HebbtiA1Q.png",
             "weight": "1.50",
-            "price": "0.80",
+            "price": null,
             "salePrice": null,
             "amount": 14,
             "tags": [
